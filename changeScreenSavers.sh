@@ -33,3 +33,5 @@ mntroot ro
 
 echo "Finished! Enjoy! :3"
 
+sleep 3
+
