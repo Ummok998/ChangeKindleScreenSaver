@@ -2,7 +2,9 @@
 Allows you to change the stock screensaver on a jailbroken Kindle.
 
 **Note:** This modifies files. I am not responsible if this bricks your Kindle. This has been tested on 5.18.1. 
+
 **Note 2:** "createtwentyfiles.py" takes a PNG named "screensaver.png" in the same folder and duplicates that twenty times. This simplifies the second step.
+
 **Note 3:** Your Kindle will need to have ads disabled. Having the book cover appear will also overwrite this.
 
 # Instructions
